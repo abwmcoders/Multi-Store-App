@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37284876410",
+    "project_id": "multi-store-33dc6",
+    "storage_bucket": "multi-store-33dc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37284876410:android:b82f9a1d7d849f13baabc3",
+        "android_client_info": {
+          "package_name": "abwmcode.org.multi_store_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcwVzQAfakayNODqSg1dYYmIb5fKs06nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
